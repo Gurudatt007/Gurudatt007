@@ -3,11 +3,11 @@
 I’m Gurudatt,
 Software engineer based in Boston & MS CS student at Northeastern University.
 
-I build things end-to-end — from ideas to shipped features.
-If there’s a problem, I enjoy designing, coding, breaking, and fixing it.
-
 I have experience in the Property & Casualty Insurance domain, specializing in .NET development.
 An AI enthusiast, I’m especially interested in Natural Language Processing and Image Processing, and enjoy exploring how intelligent systems can solve real-world problems.
+
+I build things end-to-end — from ideas to shipped features.
+If there’s a problem, I enjoy designing, coding, breaking, and fixing it.
 
 Tech: C#, .NET, SQL, Azure, Python, Java, JavaScript/TypeScript, React, Django
 
