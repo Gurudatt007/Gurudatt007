@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm Gurudatt, a software engineer based in Boston, currently pursuing MS in Computer Science.
+
 <!--
 **Gurudatt007/Gurudatt007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
