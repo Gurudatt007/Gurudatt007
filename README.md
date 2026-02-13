@@ -13,6 +13,8 @@ Tech: C#, .NET, SQL, Azure, Python, Java, JavaScript/TypeScript, React, Django
 
 Always learning. Always building. 🚀
 
+[LinkedIn Profile](https://www.linkedin.com/in/gurudatt-gaonkar/)
+
 <!--
 **Gurudatt007/Gurudatt007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
